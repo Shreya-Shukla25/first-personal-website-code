@@ -1,0 +1,116 @@
+.top-container {
+  background-color:#FECEAB;
+  width:100%;
+  height:740px;
+  position:relative;
+}
+h1 {
+  text-align:center;
+  font-size: 50px;
+  }
+  h2 {
+    color: #E8505B;
+    font-size: 30px;
+  }
+p {
+  text-align: center;
+  font-size: 15px;
+}
+h3
+ {
+   font-size: 25px;
+   color: #E84A5F;
+   height: 80px;
+ }
+.about-me {
+  background-color: #E84F5F;
+  height:130px;
+}
+.skill-img {
+height: 400px;
+position: absolute;
+bottom: 130px;
+}
+.edu-img {
+  height:300px;
+  position: absolute;
+  bottom: 130px;
+  right: 530px;
+}
+.hobby-img {
+height: 200px;
+position: absolute;
+bottom: 130px;
+right:195px;
+}
+.work-img {
+  height: 128px;
+  width: 190px;
+  position: absolute;
+  bottom: 130px;
+  right: 2px;
+}
+.middle-container {
+  width: 100p%;
+  height:800px;
+  line-height: 2;
+
+}
+.about {
+  margin-top: 50px;
+  text-align: center;
+}
+.bio {
+  width: 50%;
+  margin:auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+
+}
+.bio-img {
+  height:220px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.working-img {
+  height: 250px;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin:auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.java-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.hobbies-img {
+  height:220px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.goal-img {
+  height: 250px;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+.buttom-container {
+  width: 300px;
+  height:300px;
+  background-color: yellow;
+}
